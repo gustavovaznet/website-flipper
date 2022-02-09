@@ -11,7 +11,7 @@ This is a CSS framework website.
 	<tr>
 		<td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153068596-263041ad-9f4a-4656-a58c-a8e74e1fe6e4.png">
+			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153198553-c7d9d233-6fd6-4150-b236-82834bcefe34.png">
 		</td>   
 	</tr>
   <tr>
